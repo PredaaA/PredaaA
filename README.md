@@ -2,7 +2,7 @@
 
 I am _mostly_ an Python developer, but curious about learning new things all the time. With a love for Docker.
 
-Always looking for new oppurtinities. 👀
+Always looking for new opportunities. 👀
 
 ## Projects
 
