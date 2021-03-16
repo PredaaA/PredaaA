@@ -26,7 +26,7 @@ Here are a few things I'm working with:
 
 ## Contact
 
-- Discord - `Predä 。#1001` or [My Discord server](https://discord.gg/R6puN8Z)
+- Discord - `Predä#1001` or [My Discord server](https://discord.gg/R6puN8Z)
 - Mail - contact@martinebot.com
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=PredaaA&show_icons=true&count_private=true&theme=synthwave)
