@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there, I'm Predä</h1>
 
-I am _mostly_ an Python developer, but curious about learning new things all the time. With a love for Docker.
+I am a self-taught developer, curious about learning new things all the time. With a love for Docker.
 
 Always looking for new opportunities. 👀
 
@@ -10,13 +10,14 @@ I am working on many different projects, but most of them are related around [Di
 
 - [Martine](https://martinebot.com) - A multifunction Discord bot.
 - [Martine API](https://api.martinebot.com) - Get random images from Reddit, also do image generation.
+- [whatismyti.me](https://whatismyti.me) - Time utilities meant to get info easily to clipboard.
 - [Preda Cogs](https://github.com/PredaaA/predacogs) - Various cogs for Red bot.
 
 ## Stack
 
 Here are a few things I'm working with:
 
-- ⌨️ Python / Java / Kotlin
+- ⌨️ Python / Javascript / Java / Kotlin
 - 🐍 discordpy / FastAPI
 - :octocat: Git / Github
 - 🐳 Docker / Docker compose
