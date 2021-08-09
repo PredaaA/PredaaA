@@ -8,9 +8,10 @@ Always looking for new opportunities. 👀
 
 I am working on many different projects, but most of them are related around [Discord](https://discord.com), and my bot, [Martine](https://martinebot.com).
 
-- [Martine](https://martinebot.com) - A multifunction Discord bot.
+- [Martine](https://martinebot.com) - A multipurpose Discord bot.
 - [Martine API](https://api.martinebot.com) - Get random images from Reddit, also do image generation.
 - [whatismyti.me](https://whatismyti.me) - Time utilities meant to get info easily to clipboard.
+- [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multifunction self-hostable Discord bot.
 - [Preda Cogs](https://github.com/PredaaA/predacogs) - Various cogs for Red bot.
 
 ## Stack
