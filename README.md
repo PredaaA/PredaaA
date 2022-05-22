@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello there, I'm Predä</h1>
 
-I am a self-taught developer, curious about learning new things all the time. With a love for Docker.
+I am a self-taught and freelance developer, curious about learning new things all the time. With a love for Docker.
 
 Always looking for new opportunities. 👀
 
 ## Projects
 
-I am working on many different projects, but most of them are related around [Discord](https://discord.com), and my bot, [Martine](https://martinebot.com).
+I am working on many different projects, but most of them are related around [Discord](https://discord.com) and my bot, [Martine](https://martinebot.com).
 
 - [Martine](https://martinebot.com) - A multipurpose Discord bot.
 - [Martine API](https://api.martinebot.com) - Get random images from Reddit, also do image generation.
@@ -16,13 +16,14 @@ I am working on many different projects, but most of them are related around [Di
 
 ## Stack
 
-Here are a few things I'm working with:
+Here are a few things I'm working with or got significant experience:
 
 - ⌨️ Python / Javascript / Java / Kotlin
-- 🐍 discordpy / FastAPI
-- :octocat: Git / Github
+- 🐍 discordpy / FastAPI / BS4 & Selenium
+- :octocat: Git / Github / Gitlab / SVN
+- 🗄️ Multiple SQL engines / MongoDB
 - 🐳 Docker / Docker compose
-- 🌐 VueJS
+- 🌐 VueJS / Angular / Nest.js
 - 📡 Reverse proxying / Nginx
 - 💻 VPS & Dedicated servers management
 
