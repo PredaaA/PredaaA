@@ -21,7 +21,7 @@ There are many different projects I am involved with directly or indirectly, mos
 
 - ⌨️ Python / Javascript / Java / Kotlin / Coldfusion
 - 🐍 discordpy / FastAPI / BS4 & Selenium
-- 🌐 VueJS / Angular / Nest.js
+- 🌐 SvelteKit / Next.js / VueJS / Angular / Nest.js
 - :octocat: Git / Github / Gitlab / SVN
 - 🗄️ Postgresql / MongoDB / MySQL / SQL Server
 - 🐳 Docker / Docker compose
