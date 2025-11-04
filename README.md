@@ -35,4 +35,4 @@ There are many different projects I am involved with directly or indirectly, mos
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=PredaaA&show_icons=true&count_private=true&theme=material-palenight&border_radius=10)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PredaaA/PredaaA)
+![visitors](https://komarev.com/ghpvc/?username=PredaaA&base=5000)
